@@ -1,6 +1,6 @@
 # Introduction to Neural Networks
 
-This tutorial was presented at the QMI General Meeting on November 11, 2019. It covers:
+This tutorial was presented at the QMI General Meeting on November 18, 2019. It covers:
 
 - Neurons
   - Weights
